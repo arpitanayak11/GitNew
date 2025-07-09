@@ -1,0 +1,2 @@
+# GitNew
+This is my first git command
